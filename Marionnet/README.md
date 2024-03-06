@@ -11,4 +11,4 @@
   sudo ./marionnet_unimore.sh
   ```
   Inserire i dati richiesti
-* Per lanciare l'applicazione Marionnet scrivere "marionnet sul terminale" 
+* Per lanciare l'applicazione Marionnet scrivere "marionnet" sul terminale.
