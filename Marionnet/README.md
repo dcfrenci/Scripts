@@ -15,5 +15,5 @@
 * Per lanciare l'applicazione Marionnet scrivere "marionnet" sul terminale.
 
 ### Contributor
-* Francesco Della Casa
-* Marco Farioli
+* [Francesco Della Casa](https://github.com/dcfrenci)
+* [Marco Farioli](https://github.com/neaaar)
