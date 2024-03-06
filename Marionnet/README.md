@@ -13,3 +13,7 @@
   ```
   Inserire i dati richiesti
 * Per lanciare l'applicazione Marionnet scrivere "marionnet" sul terminale.
+
+### Contribution
+* Francesco Della Casa
+* Marco Farioli
