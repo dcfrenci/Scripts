@@ -14,6 +14,6 @@
   Inserire i dati richiesti
 * Per lanciare l'applicazione Marionnet scrivere "marionnet" sul terminale.
 
-### Contribution
+### Contributor
 * Francesco Della Casa
 * Marco Farioli
