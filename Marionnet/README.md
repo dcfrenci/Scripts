@@ -4,7 +4,8 @@
   chmod +x marionnet_from_scratch 
   ./marionnet_from_scratch
   ```
-* Scaricare la directory "" ed estrarla
+* Scaricare la directory "marionnet_stuff.tar.xz" disponibile su Microsoft Teams (o da [qui](https://unimore365.sharepoint.com/:u:/s/InsegnamentoPercorso_2023_20-212_2015_INF-16_S2/ETFQZDL8AlNJnVsaATgjqiIBgkVbZUGS9i0Fu1sF5igl8Q?e=QeXsrV) direttamente) ed estrarla.
+* Individuare nella directory il path delle directory "filesystems" e "kernels".
 * Scaricare il file "marionnet_unimore.sh" ed eseguire i comandi:
   ```
   chmod +x marionnet_unimore.sh
